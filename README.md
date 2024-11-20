@@ -149,7 +149,7 @@ Based on evaluation above, Decision Tree Classifier may be the best model in ter
 
 The ROC curve analysis for all the models came out with Decision Tree having the highest area of 0.97.
 
-![image 23](images/log_reg_coef.png "log_reg_coef")
+![image 23](images/log_reg_coef.PNG "log_reg_coef")
 
 Highest impact features include:
 category_travel, amt, category_grocery_pos, and category_shopping_net
