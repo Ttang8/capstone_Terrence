@@ -24,11 +24,11 @@ Data has no nan values and is a clean dataset. There are 23 features, and will b
 
 ### EDA and Data Preparation
 
-![image 2](images/fraud_amts.PNG "fraud_amts")
+![image 2](images/fraud_amts.png "fraud_amts")
 
 There are 3 visible groupings on transaction amounts flagged as fraud. Around the $0-$50 range, $250-$350 range and $850-$1000.
 
-![image 3](images/fraud_by_cat.PNG "fraud_by_cat")
+![image 3](images/fraud_by_cat.png "fraud_by_cat")
 
 ![image 4](images/fraud_percentage.png "fraud_percentage")
 
