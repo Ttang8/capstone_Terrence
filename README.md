@@ -2,7 +2,7 @@
 # Credit Card Fraud Detection
 
 #### Link to Jupyter notebook files: [EDA and Modeling](capstone_Terrence.ipynb) , [Other Models](capstone_modeling.ipynb)
-### Note: EDA file is too big to display on github because of all the plots. Please download file to view.
+#### Note: If EDA file is too big to display on github because of all the plots, please download file to view.
 
 [Kaggle dataset Used](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
